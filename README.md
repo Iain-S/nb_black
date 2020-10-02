@@ -3,6 +3,8 @@
 [![PyPI](https://img.shields.io/pypi/v/nb_black.svg)](https://pypi.org/project/nb-black/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nb_black.svg)](https://pypi.org/project/nb-black/)
 
+This branch contains the other branches, all combined.
+
 A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using **[Black](https://github.com/psf/black)**.
 
 Please note that since the **Black** package only supports Python 3.6+, so **[YAPF](https://github.com/google/yapf)** package will
